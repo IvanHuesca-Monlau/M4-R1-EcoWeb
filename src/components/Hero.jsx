@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <section id="inicio" className="relative py-20 overflow-hidden">
-      {/* Video de fondo */}
+      {/* Background video */}
       <video
         autoPlay
         loop
