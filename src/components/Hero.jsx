@@ -29,20 +29,6 @@ const Hero = () => {
               aplicaciones y sistemas que optimizan recursos, reducen el consumo energético 
               y promueven una transformación tecnológica respetuosa con el planeta.
             </p>
-            <div className="grid grid-cols-3 gap-6 mt-12">
-              <div className="bg-green-600 text-white p-6 rounded-lg shadow-lg">
-                <div className="text-4xl font-bold mb-2">100%</div>
-                <div>Energía renovable</div>
-              </div>
-              <div className="bg-blue-600 text-white p-6 rounded-lg shadow-lg">
-                <div className="text-4xl font-bold mb-2">-40%</div>
-                <div>Reducción CO2</div>
-              </div>
-              <div className="bg-teal-600 text-white p-6 rounded-lg shadow-lg">
-                <div className="text-4xl font-bold mb-2">Año 2050</div>
-                <div>Neutralidad climática</div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
