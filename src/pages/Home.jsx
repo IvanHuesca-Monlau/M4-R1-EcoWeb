@@ -6,18 +6,17 @@ import OurMission from "../components/Home/OurMission";
 const Home = () => {
   return (
     <div>
+      {/* Hero section */}
       <Hero />
 
-      {/* Sección Misión */}
+      {/* Our mission section */}
       <OurMission />
 
-      {/* Testimonios */}
+      {/* Testimonials section */}
       <Testimonials />
 
-
-      {/* Nuestro equipo */}
+      {/* Our team section */}
       <OurTeam />
-
     </div>
   );
 };
