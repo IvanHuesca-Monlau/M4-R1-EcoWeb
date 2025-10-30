@@ -28,7 +28,6 @@ const OurMission = () => {
           </p>
         </div>
 
-        {/* Pilares ASG */}
         <div className="grid md:grid-cols-3 gap-8 mt-12">
           <div className="bg-green-50 p-6 rounded-lg border-2 border-green-200">
             <div className="text-4xl mb-4">🌍</div>
