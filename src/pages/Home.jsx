@@ -1,7 +1,7 @@
 import Hero from "../components/Hero";
-import Testimonials from "../components/Home/Testimonials";
-import OurTeam from "../components/Home/OurTeam";
-import OurMission from "../components/Home/OurMission";
+import Testimonials from "../components/home/Testimonials";
+import OurTeam from "../components/home/OurTeam";
+import OurMission from "../components/home/OurMission";
 
 const Home = () => {
   return (
